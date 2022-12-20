@@ -1,9 +1,9 @@
-### Welcome!
+### 🌸🌸 Welcome! 🌸🌸
 
 _Disclaimer: This repo contains projects for **personal** growth and enjoyment, and is not intended to be representative of work I would do professionally._  
 
-:email: Feel free to forward any enquiries to hiroshi.nobuoka@gmail.com 
-:dango: If you dabble in the culinary arts, check out my [instagram](https://www.instagram.com/roshmadosh/)  
+💌: Feel free to forward any enquiries to hiroshi.nobuoka@gmail.com  
+:dango: If you dabble in the culinary arts, you might wanna check out my [Instagram](https://www.instagram.com/roshmadosh/)  
 
 You'll find I spend most of my time doing stuff in Typescript, React, Python, and Java.  
 
