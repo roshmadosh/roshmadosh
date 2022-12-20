@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome!
 
-<!--
-**roshmadosh/roshmadosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Disclaimer: This repo contains projects for **personal** growth and enjoyment, and is not intended to be representative of work I would do professionally._  
 
-Here are some ideas to get you started:
+:email: Feel free to forward any enquiries to hiroshi.nobuoka@gmail.com 
+:dango: If you dabble in the culinary arts, check out my [instagram](https://www.instagram.com/roshmadosh/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You'll find I spend most of my time doing stuff in Typescript, React, Python, and Java.  
+
+### Completed Projects(for the most part)
+- `corpus-ranker` is a web app that serves as a visual aid for observing the effects of adjusting hyperparameters for scikit-learn's NearestNeighbor module. 
+- `Sentitext` is a simple text editor that performs sentiment analysis and changes the background color accordingly.  
+
+### Active Projects
+- `roffle` is my in-progress capstone project for my data science bootcamp. Trying out various AWS services before settling on a project infrastructure.
+- `hiroshis_hadoop_playground` and `DS_deploy_AWS` contain content I intend on sharing as guides/tutorials. 
