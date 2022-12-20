@@ -7,10 +7,10 @@ _Disclaimer: This repo contains projects for **personal** growth and enjoyment, 
 
 You'll find I spend most of my time doing stuff in Typescript, React, Python, and Java.  
 
-### (Mostly) Completed Projects
+### (Mostly) Completed Projects ✔️
 - `corpus-ranker` is a web app that serves as a visual aid for observing the effects of adjusting hyperparameters for scikit-learn's NearestNeighbor module. 
 - `Sentitext` is a simple text editor that performs sentiment analysis and changes the background color accordingly.  
 
-### Active Projects
+### Active Projects 🚧:
 - `roffle` is my in-progress capstone project for my data science bootcamp. Trying out various AWS services before settling on a project infrastructure.
 - `hiroshis_hadoop_playground` and `DS_deploy_AWS` contain content I intend on sharing as guides/tutorials. 
