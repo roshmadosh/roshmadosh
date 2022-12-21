@@ -1,9 +1,13 @@
 ### 🌸🌸 Welcome! 🌸🌸
 
-_Disclaimer: This repo contains projects for **personal** growth and enjoyment, and is not intended to be representative of work I would do professionally._  
+I am currently looking for work as a software developer, data engineer, or SDET!
+
+I began coding in July 2021 and have since worked as a software developer for a global IT consultancy and completed a data science bootcamp in December 2022.  
+
+While I'm in a perpetual state of learning, if I _had_ to pick a specialty it would be JavaScript/TypeScript + React development, followed by writing API's for machine learning models in Python.  
 
 💌 Feel free to forward any inquiries to hiroshi.nobuoka@gmail.com  
-:dango: If you dabble in the culinary arts, you might wanna check out my [Instagram](https://www.instagram.com/roshmadosh/)  
+:dango: If you like cooking, you might wanna check out my [Instagram](https://www.instagram.com/roshmadosh/)!  
 
 You'll find I spend most of my time doing stuff in Typescript, React, Python, and Java.  
 
