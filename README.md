@@ -4,7 +4,10 @@ I am currently looking for work as a software developer, data engineer, or SDET!
 
 I began coding in July 2021 and have since worked as a software developer for a global IT consultancy and completed a data science bootcamp in December 2022.  
 
-While I'm in a perpetual state of learning, if I _had_ to pick a specialty it would be JavaScript/TypeScript + React development. After my bootcamp I've spent most of my time attempting to build data pipelines for updating machine learning models (lots of Python and AWS).
+While I try to stay stack-agnostic for web development, most of my experience is in
+- JavaScript/TypeScript + React frontend
+- Java + Spring backend
+- AWS for devops and deployment
 
 💌 Feel free to forward any inquiries to hiroshi.nobuoka@gmail.com  
 :dango: If you like cooking, you might wanna check out my [Instagram](https://www.instagram.com/roshmadosh/)!  
