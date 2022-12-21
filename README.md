@@ -4,12 +4,10 @@ I am currently looking for work as a software developer, data engineer, or SDET!
 
 I began coding in July 2021 and have since worked as a software developer for a global IT consultancy and completed a data science bootcamp in December 2022.  
 
-While I'm in a perpetual state of learning, if I _had_ to pick a specialty it would be JavaScript/TypeScript + React development, followed by writing API's for machine learning models in Python.  
+While I'm in a perpetual state of learning, if I _had_ to pick a specialty it would be JavaScript/TypeScript + React development, followed by coming with ad-hoc, creative ways to serve machine learning models (mostly Python).  
 
 💌 Feel free to forward any inquiries to hiroshi.nobuoka@gmail.com  
 :dango: If you like cooking, you might wanna check out my [Instagram](https://www.instagram.com/roshmadosh/)!  
-
-You'll find I spend most of my time doing stuff in Typescript, React, Python, and Java.  
 
 ### (Mostly) Completed Projects ✔️
 - `corpus-ranker` is a web app that serves as a visual aid for observing the effects of adjusting hyperparameters for scikit-learn's NearestNeighbor module. 
