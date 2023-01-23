@@ -11,4 +11,4 @@ I am currently looking for work as a software developer, data engineer, or SDET!
 
 ### Active Projects 🚧:
 - `hiroshi_hadoop_playround` is my sandbox for Spark and Scala.
-- `SpringBasics` is my sandbox for Spring Framework.
+- I have several sandbox repositories for Spring Framework and Spring MVC, including `java-persistence`, `VideoMVC`, and `SpringBasics`.
