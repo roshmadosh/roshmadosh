@@ -15,11 +15,3 @@
 
 <br></br>
 <img align="center" src="https://streak-stats.demolab.com/?user=roshmadosh" />
-
-
-### ✔️(Mostly) Completed Projects 
-- `corpus-ranker` is a web app that serves as a visual aid for observing the effects of adjusting hyperparameters for scikit-learn's NearestNeighbor module. 
-- `Sentitext` is a simple text editor that performs sentiment analysis and changes the background color accordingly.  
-
-### 🚧 Active Projects 
-- `COLORISH` is a web app that will let a user upload an image, and the most prominent colors of that image will change the theme of the page.  
