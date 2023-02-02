@@ -7,10 +7,8 @@
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/roshmadosh/)
 
 
- [<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshmadosh&show_icons=true&bg_color=315,fe8dc6,fed1c7&title_color=fff&text_color=fff" />](https://github.com/anuraghazra/github-readme-stats)  
- 
- [<img align="center" src="https://streak-stats.demolab.com/?user=roshmadosh" />](https://git.io/streak-stats)
-  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshmadosh&show_icons=true&bg_color=315,fe8dc6,fed1c7&title_color=fff&text_color=fff" />
+<img align="center" src="https://streak-stats.demolab.com/?user=roshmadosh" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshmadosh&hide=jupyter%20notebook,astro,html,css&langs_count=8&layout=compact)
 
