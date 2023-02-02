@@ -1,4 +1,4 @@
-<h2  style="font-family:'Brush Script MT', cursive;"/>🌸🌸 Welcome 🌸🌸</h2>
+<h1  align="center" />🌸🌸 Welcome 🌸🌸</h1>
 
 **I am currently looking for work as a software developer, data engineer, or SDET!**  
 
